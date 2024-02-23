@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
           MaterialPageRoute(builder: (context) => MakeAGroup()),
         );
       },
-        child: const Text("Make a group page")),
+        child: const Text("Make a groJup page")),
         SizedBox(
           height: 20,
         ),
